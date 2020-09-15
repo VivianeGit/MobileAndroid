@@ -1,4 +1,4 @@
-package Aula4.Decisão
+package Aula5.Decisão
 fun main(){
 
 print("Qual a primeira nota? ")
